@@ -1,6 +1,5 @@
 // Requirements.
 const express = require('express');
-const LimitingMiddleware = require('limiting-middleware');
 const { randomLine, lineByType } = require('./handler');
 const app = express();
 
