@@ -1,0 +1,622 @@
+[
+  {
+    "id": 1,
+    "type": "sfw",
+    "pickup": "I’m not a photographer, but I can picture me and you together."
+  },
+  {
+    "id": 2,
+    "type": "nsfw",
+    "pickup": "Are you a cake? Because I want a piece of that."
+  },
+  {
+    "id": 3,
+    "type": "sfw",
+    "pickup": "Are you a cat? Because you look purrrfect."
+  },
+  {
+    "id": 4,
+    "type": "sfw",
+    "pickup": "Do you believe in love at first sight, or should I walk past again?"
+  },
+  {
+    "id": 5,
+    "type": "sfw",
+    "pickup": "Are you a magician? Because you just cast a spell on me."
+  },
+  {
+    "id": 6,
+    "type": "sfw",
+    "pickup": "If you were a triangle, you’d be acute one."
+  },
+  {
+    "id": 7,
+    "type": "sfw",
+    "pickup": "Are you a bank loan? Because you’ve certainly got my interest."
+  },
+  {
+    "id": 8,
+    "type": "sfw",
+    "pickup": "Your hand looks heavy, can Ihold it for you?"
+  },
+  {
+    "id": 9,
+    "type": "sfw",
+    "pickup": "I think you are suffering from a lack of Vitamin Me."
+  },
+  {
+    "id": 10,
+    "type": "sfw",
+    "pickup": "On a scale of 1 to 10, you’re a 9 and I’m the 1 you lack."
+  },
+  {
+    "id": 11,
+    "type": "sfw",
+    "pickup": "Are you French? Because Eiffel for you."
+  },
+  {
+    "id": 12,
+    "type": "sfw",
+    "pickup": "Do you like raisins? How about a date?"
+  },
+  {
+    "id": 13,
+    "type": "sfw",
+    "pickup": "There is something wrong with my cell phone. It doesn't have your number in it."
+  },
+  {
+    "id": 14,
+    "type": "sfw",
+    "pickup": "If I could rearrange the alphabet, I’d put ‘U’ and ‘I’ together."
+  },
+  {
+    "id": 15,
+    "type": "nsfw",
+    "pickup": "Aside from being sexy, what do you do for a living?"
+  },
+  {
+    "id": 16,
+    "type": "sfw",
+    "pickup": "I must be a snowflake, because I've fallen for you."
+  },
+  {
+    "id": 17,
+    "type": "sfw",
+    "pickup": "[This line is very shit] Are you from Tennessee? Because you're the only 10 I see"
+  },
+  {
+    "id": 18,
+    "type": "sfw",
+    "pickup": "If you were a Transformer, you’d be Optimus Fine."
+  },
+  {
+    "id": 19,
+    "type": "sfw",
+    "pickup": "Are you a parking ticket? Because you’ve got FINE written all over you."
+  },
+  {
+    "id": 20,
+    "type": "sfw",
+    "pickup": "I wish I were cross-eyed so I could see you twice."
+  },
+  {
+    "id": 21,
+    "type": "sfw",
+    "pickup": "I must be in a museum, because you truly are a work of art."
+  },
+  {
+    "id": 22,
+    "type": "sfw",
+    "pickup": "I'm no photographer, but I can picture you and I together."
+  },
+  {
+    "id": 23,
+    "type": "sfw",
+    "pickup": "Feel my shirt. Know what it’s made of? Boyfriend material"
+  },
+  {
+    "id": 24,
+    "type": "sfw",
+    "pickup": "If you were a chicken, you’d be impeccable"
+  },
+  {
+    "id": 25,
+    "type": "sfw",
+    "pickup": "Did your license get suspended for driving all these guys crazy?"
+  },
+  {
+    "id": 26,
+    "type": "sfw",
+    "pickup": "I’m learning about important dates in history. Wanna be one of them?"
+  },
+  {
+    "id": 27,
+    "type": "sfw",
+    "pickup": "If you were words on a page, you’d be fine print."
+  },
+  {
+    "id": 28,
+    "type": "nsfw",
+    "pickup": "Did you just come out of the oven? Because you’re hot."
+  },
+  {
+    "id": 29,
+    "type": "nsfw",
+    "pickup": "It’s a good thing I have my library card because I am totally checking you out."
+  },
+  {
+    "id": 30,
+    "type": "sfw",
+    "pickup": "I was wondering if you had an extra heart. Because mine was just stolen."
+  },
+  {
+    "id": 31,
+    "type": "sfw",
+    "pickup": "Is your name Google? Because you have everything I’ve been searching for."
+  },
+  {
+    "id": 32,
+    "type": "nsfw",
+    "pickup": "Your lips look lonely. Would they like to meet mine?"
+  },
+  {
+    "id": 33,
+    "type": "sfw",
+    "pickup": "Are you a time traveler? Cause I see you in my future."
+  },
+  {
+    "id": 34,
+    "type": "sfw",
+    "pickup": "Life without you is like a broken pencil. Pointless."
+  },
+  {
+    "id": 35,
+    "type": "nsfw",
+    "pickup": "[This line needs edit. ID: 35.]"
+  },
+  {
+    "id": 36,
+    "type": "nsfw",
+    "pickup": "My love for you is like diarrhea, I just can't hold it in."
+  },
+  {
+    "id": 37,
+    "type": "sfw",
+    "pickup": "We’re not socks, but I think we’d make a great pair."
+  },
+  {
+    "id": 38,
+    "type": "nsfw",
+    "pickup": "You must be tired because you've been running through my mind all night."
+  },
+  {
+    "id": 39,
+    "type": "sfw",
+    "pickup": "Do you have a map? I keep getting lost in your eyes."
+  },
+  {
+    "id": 40,
+    "type": "sfw",
+    "pickup": "Do you have a BandAid? I just scraped my knee falling for you."
+  },
+  {
+    "id": 41,
+    "type": "sfw",
+    "pickup": "Do you like Star Wars? Because Yoda only one for me."
+  },
+  {
+    "id": 42,
+    "type": "sfw",
+    "pickup": "Did you invent the airplane? Because you seem Wright for me."
+  },
+  {
+    "id": 43,
+    "type": "sfw",
+    "pickup": "Do you know CPR? Because you took my breath away."
+  },
+  {
+    "id": 44,
+    "type": "sfw",
+    "pickup": "I never believed in love at first sight, but that was before I saw you."
+  },
+  {
+    "id": 45,
+    "type": "nsfw",
+    "pickup": "You’re like a fine wine. The more of you I drink in, the better I feel."
+  },
+  {
+    "id": 46,
+    "type": "nsfw",
+    "pickup": "Are you as beautiful on the inside as you are on the outside?"
+  },
+  {
+    "id": 47,
+    "type": "nsfw",
+    "pickup": "If being sexy was a crime, you’d be guilty as charged."
+  },
+  {
+    "id": 48,
+    "type": "sfw",
+    "pickup": "I was wondering if you’re an artist because you were so good at drawing me in."
+  },
+  {
+    "id": 49,
+    "type": "nsfw",
+    "pickup": "I’d like to take you to the movies, but they don’t let you bring in your own snacks."
+  },
+  {
+    "id": 50,
+    "type": "nsfw",
+    "pickup": "You know what you would look really beautiful in? My arms."
+  },
+  {
+    "id": 51,
+    "type": "sfw",
+    "pickup": "I would never play hide and seek with you because someone like you is impossible to find."
+  },
+  {
+    "id": 52,
+    "type": "sfw",
+    "pickup": "Are you a magician? It’s the strangest thing, but every time I look at you, everyone else disappears."
+  },
+  {
+    "id": 53,
+    "type": "sfw",
+    "pickup": "I think there’s something wrong with my phone. Could you try calling it to see if it works?"
+  },
+  {
+    "id": 54,
+    "type": "sfw",
+    "pickup": "Are you an electrician? Because you’re definitely lighting up my day."
+  },
+  {
+    "id": 55,
+    "type": "sfw",
+    "pickup": "I always thought happiness started with an ‘h,’ but it turns out mine starts with ‘u.’"
+  },
+  {
+    "id": 56,
+    "type": "sfw",
+    "pickup": "I believe in following my dreams. Can I have your Instagram?"
+  },
+  {
+    "id": 57,
+    "type": "sfw",
+    "pickup": "If you were a song, you’d be the best track on the album"
+  },
+  {
+    "id": 58,
+    "type": "sfw",
+    "pickup": "If you were a taser, you’d be set to ‘stun.’."
+  },
+  {
+    "id": 59,
+    "type": "sfw",
+    "pickup": "I can’t tell if that was an earthquake, or if you just seriously rocked my world."
+  },
+  {
+    "id": 60,
+    "type": "sfw",
+    "pickup": "If you were a fruit, you’d be a ‘fine-apple.’"
+  },
+  {
+    "id": 61,
+    "type": "sfw",
+    "pickup": "The sparkle in your eyes is so bright, the sun must be jealous."
+  },
+  {
+    "id": 62,
+    "type": "sfw",
+    "pickup": "If beauty were time, you’d be eternity."
+  },
+  {
+    "id": 63,
+    "type": "sfw",
+    "pickup": "I don’t know which is prettier today—the weather, or your eyes."
+  },
+  {
+    "id": 64,
+    "type": "nsfw",
+    "pickup": "Kiss me if I’m wrong but, dinosaurs still exist, right?"
+  },
+  {
+    "id": 65,
+    "type": "sfw",
+    "pickup": "If I were a cat, I’d spend all nine of my lives with you."
+  },
+  {
+    "id": 66,
+    "type": "sfw",
+    "pickup": "When I text you goodnight later, what phone number should I use?"
+  },
+  {
+    "id": 67,
+    "type": "sfw",
+    "pickup": "I’m not currently an organ donor, but I’d be happy to give you my heart."
+  },
+  {
+    "id": 68,
+    "type": "sfw",
+    "pickup": "I’d say, ‘God bless you,’ but it looks like he already did."
+  },
+  {
+    "id": 69,
+    "type": "sfw",
+    "pickup": "There must be something wrong with my eyes, I can’t seem to take them off of you."
+  },
+  {
+    "id": 70,
+    "type": "sfw",
+    "pickup": "I seem to have lost my number—can I have yours?"
+  },
+  {
+    "id": 71,
+    "type": "sfw",
+    "pickup": "I was going to call you beautiful, but then I realized I don’t have your number yet."
+  },
+  {
+    "id": 72,
+    "type": "sfw",
+    "pickup": "Is your dad a boxer? Cause you're a knockout."
+  },
+  {
+    "id": 73,
+    "type": "sfw",
+    "pickup": "Do you have a name, or can I just call you ‘mine?’"
+  },
+  {
+    "id": 74,
+    "type": "sfw",
+    "pickup": "Can I have your picture so I can show Santa what I want for Christmas?"
+  },
+  {
+    "id": 75,
+    "type": "nsfw",
+    "pickup": "You look cold. Want to use me as a blanket?"
+  },
+  {
+    "id": 76,
+    "type": "sfw",
+    "pickup": "Are you an alien? Because you just abducted my heart."
+  },
+  {
+    "id": 77,
+    "type": "nsfw",
+    "pickup": "If you're feeling down I can feel you up."
+  },
+  {
+    "id": 78,
+    "type": "sfw",
+    "pickup": "Hey, you’re pretty and I’m cute. Together we’d be pretty cute."
+  },
+  {
+    "id": 79,
+    "type": "sfw",
+    "pickup": "Did I tell you I’m writing a book? It’s a phone book and it’s missing your number."
+  },
+  {
+    "id": 80,
+    "type": "sfw",
+    "pickup": "Is there an airport nearby or is it my heart taking off."
+  },
+  {
+    "id": 81,
+    "type": "sfw",
+    "pickup": "Are you Wi-Fi? Cause I’m totally feeling a connection."
+  },
+  {
+    "id": 82,
+    "type": "sfw",
+    "pickup": "Are you Australian? Because you meet all of my koalafications."
+  },
+  {
+    "id": 83,
+    "type": "sfw",
+    "pickup": "Your middle name must be Gillette. Because you’re the best a man can get."
+  },
+  {
+    "id": 84,
+    "type": "sfw",
+    "pickup": "You look so familiar. Didn’t we take a class together? I could’ve sworn we had chemistry."
+  },
+  {
+    "id": 85,
+    "type": "sfw",
+    "pickup": "If I had four quarters to give to the four prettiest women in the world, you would have a dollar."
+  },
+  {
+    "id": 86,
+    "type": "sfw",
+    "pickup": "If you were a burger at McDonald’s, you’d be the McGorgeous."
+  },
+  {
+    "id": 87,
+    "type": "sfw",
+    "pickup": "Are you a camera? Because every time I look at you, I smile."
+  },
+  {
+    "id": 88,
+    "type": "sfw",
+    "pickup": "You must be a bank loan, cause you’ve got my interest."
+  },
+  {
+    "id": 89,
+    "type": "nsfw",
+    "pickup": "I’m in the mood for pizza. A pizza you, that is."
+  },
+  {
+    "id": 90,
+    "type": "sfw",
+    "pickup": "I’m good at algebra; I can replace your X and you wouldn’t need to figure out Y."
+  },
+  {
+    "id": 91,
+    "type": "sfw",
+    "pickup": "You must be a bank loan, cause you’ve got my interest?"
+  },
+  {
+    "id": 92,
+    "type": "sfw",
+    "pickup": "Remember me? Oh, that’s right, I’ve only met you in my dreams."
+  },
+  {
+    "id": 93,
+    "type": "sfw",
+    "pickup": "You must be made of cheese. Because you’re looking Gouda tonight."
+  },
+  {
+    "id": 94,
+    "type": "sfw",
+    "pickup": "If you were a vegetable, you would be a cute-cumber."
+  },
+  {
+    "id": 95,
+    "type": "sfw",
+    "pickup": "Is summer over? Because I’m about to “fall” for you."
+  },
+  {
+    "id": 96,
+    "type": "nsfw",
+    "pickup": "There’s a massive clothes sale in my bedroom – everything is 100% off."
+  },
+  {
+    "id": 97,
+    "type": "nsfw",
+    "pickup": "Are you an onion cos I want to remove your layers."
+  },
+  {
+    "id": 98,
+    "type": "sfw",
+    "pickup": "You don’t need keys to drive me crazy."
+  },
+  {
+    "id": 99,
+    "type": "sfw",
+    "pickup": "Do you smoke pot? Because weed be cute together."
+  },
+  {
+    "id": 100,
+    "type": "nsfw",
+    "pickup": "Are those mirrors in your pants? Because I can see myself in them."
+  },
+  {
+    "id": 101,
+    "type": "sfw",
+    "pickup": "Are you my phone charger? Because without you, I’d die."
+  },
+  {
+    "id": 102,
+    "type": "sfw",
+    "pickup": "This may be cheesy, but I think you’re grate."
+  },
+  {
+    "id": 103,
+    "type": "nsfw",
+    "pickup": "If you were a booger I’d pick you first."
+  },
+  {
+    "id": 104,
+    "type": "sfw",
+    "pickup": "Are you glitter? Because you add sparkle to my life."
+  },
+  {
+    "id": 105,
+    "type": "sfw",
+    "pickup": "Are you coffee? Because I like you a latte."
+  },
+  {
+    "id": 106,
+    "type": "sfw",
+    "pickup": "Let me tie your shoes, cause I don’t want you falling for anyone else."
+  },
+  {
+    "id": 107,
+    "type": "nsfw",
+    "pickup": "Are you an omelette? Because you’re making me egg-cited."
+  },
+  {
+    "id": 108,
+    "type": "sfw",
+    "pickup": "Do you have a pencil? Cause I want to erase your past and write our future."
+  },
+  {
+    "id": 109,
+    "type": "sfw",
+    "pickup": "Are you my Appendix? Because I have a funny feeling in my stomach that makes me feel like I should take you out."
+  },
+  {
+    "id": 110,
+    "type": "nsfw",
+    "pickup": "Are you an orphanage? Cause I wanna give you kids."
+  },
+  {
+    "id": 111,
+    "type": "sfw",
+    "pickup": "Are you mexican? Because you’re my juan and only."
+  },
+  {
+    "id": 112,
+    "type": "nsfw",
+    "pickup": "Do you drink Pepsi? Because you’re soda-licious."
+  },
+  {
+    "id": 113,
+    "type": "nsfw",
+    "pickup": "I’ll give up my morning cereal to spoon you instead."
+  },
+  {
+    "id": 114,
+    "type": "sfw",
+    "pickup": "Do you like Nintendo? Because Wii would look good together."
+  },
+  {
+    "id": 115,
+    "type": "sfw",
+    "pickup": "If you were a flower you’d be a damnnn-delion."
+  },
+  {
+    "id": 116,
+    "type": "sfw",
+    "pickup": "Are you a banana? Because I find you a-peeling."
+  },
+  {
+    "id": 117,
+    "type": "nsfw",
+    "pickup": "You’ve been a bad girl. Go to my room."
+  },
+  {
+    "id": 118,
+    "type": "nsfw",
+    "pickup": "I’m an astronaut, and my next mission is to explore Uranus."
+  },
+  {
+    "id": 119,
+    "type": "nsfw",
+    "pickup": "If I flip a coin, what do you reckon my chances are of getting head?"
+  },
+  {
+    "id": 120,
+    "type": "nsfw",
+    "pickup": "The word of the day is legs. Let’s go back to your place and spread the word."
+  },
+  {
+    "id": 121,
+    "type": "nsfw",
+    "pickup": "Do you know what would look good on you? Me."
+  },
+  {
+    "id": 122,
+    "type": "sfw",
+    "pickup": "Did you fart because you blew me away."
+  },
+  {
+    "id": 123,
+    "type": "sfw",
+    "pickup": "Do you know karate because your body is kickin."
+  },
+  {
+    "id": 124,
+    "type": "nsfw",
+    "pickup": "If you’re feeling down, I can feel you up."
+  }
+]
